@@ -1,0 +1,27 @@
+POST : Mengirin data ke server
+GET : Meminta data ke server
+creat : post 
+read : get 
+update : get 
+delete : get 
+
+object java script : ada unsur "key" & "value"
+sarat json adalah object 
+contoh
+{ 
+"nama" = "nur Ahmad soleh" 
+}
+nama : key dan nur ahmad soleh : value 
+ 
+ tipe data dari value json 
+ boleean - true/false 
+ array - ["value1","value2",...] 
+ string - teks unik, di bungkus dengan "" 
+ object -,,{"key" = "value"} 
+ number - interger/float 
+ null -null 
+ 
+ contoh membuat json 
+ buat folder pada htdoc dengan nama rest-api 
+ dan di dalamnya buat folder json 
+ kumedian buat file tes.json
