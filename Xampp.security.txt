@@ -1,0 +1,2 @@
+Sudo /opt/lampp/lampp start
+Sudo /opt/lampp/lampp security
