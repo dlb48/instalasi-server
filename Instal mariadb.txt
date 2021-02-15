@@ -1,3 +1,4 @@
-sudo apt update
-sudo apt install mariadb-server
+sudo apt-get update
+sudo apt-get install mariadb-server
+sudo systemctl status mariadb
 sudo mysql_secure_installation
