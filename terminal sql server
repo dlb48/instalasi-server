@@ -1,0 +1,5 @@
+/opt/lampp/lampp restart //restart xampp
+/opt/lampp/lampp start //mulai xampp
+/opt/lampp/lampp stop //stop xampp
+
+nano /opt/lampp/etc/my.cnf //tuning sql server
